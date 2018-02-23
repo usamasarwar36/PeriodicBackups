@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PeriodicBackupsActivity!</string>
+    <string name="app_name">PeriodicBackups</string>
+    <string name="sechedule">Schedule</string>
+    <string name="un_sechedule">Cancel</string>
+
+</resources>
